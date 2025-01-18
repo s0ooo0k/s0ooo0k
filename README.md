@@ -1,16 +1,16 @@
-## Hi there 👋
+## ⚡ About Me 
+안녕하세요, 지현숙입니다!
+백엔드 개발자, AI 활용 엔지니어를 준비하고 있습니다
 
-<!--
-**s0ooo0k/s0ooo0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏃 Who am I
+🔭 이화여자대학교 컴퓨터공학과 졸업 예정
+🦁 이화여자대학교 멋쟁이사자처럼 8기, 9기
+🖱️ Programmers 생성형 AI Backend 데브코스 1기
 
-Here are some ideas to get you started:
+## 📫 How to reach me 
+📧 sookidayo@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏃 tools
+
+## GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0ooo0k&layout=compact)
