@@ -7,7 +7,7 @@
 🖱️ Programmers 생성형 AI Backend 데브코스 1기    
 
 ### 📫 How to reach me 
-😼 https://github.com/s0ooo0k
+😼 https://github.com/s0ooo0k    
 📧 sookidayo@gmail.com
 
 ### 🛠️ Tools
