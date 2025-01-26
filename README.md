@@ -19,3 +19,11 @@
 
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs0ooo0k&edge_flat=false&title=hits)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=s0ooo0k&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/s0ooo0k"
+  width="600"
+  height="300"
+/>
+</a>
