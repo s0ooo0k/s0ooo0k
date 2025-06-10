@@ -1,7 +1,13 @@
 ### ⚡ About Me 
-안녕하세요, 백엔드 개발자를 꿈꾸는 지현숙 입니다!
+### 문제를 구조화하고 더 나은 사용자 경험을 만드는 백엔드 개발자 지현숙입니다.  
 
+🖊️ 사용자에게 의미 있는 기능을 만들기 위해 꾸준히 배우고 도전합니다.  
+🤖 새로운 기술도 직접 부딪히며 익히고, 과정을 기록하며 성장합니다.  
+🫱🏼‍🫲🏻 팀과의 소통을 중요하게 생각하며, 협업 과정 속에서 더 나은 방향을 함께 고민합니다.
 
+<br>
+
+  
 ### 🏃 Who am I
 🔭 Ewha Womans Uiv. Computer Science Engineering   
 🦁 Ewha LikeLion 8, 9기   
@@ -10,15 +16,18 @@
 ### 📫 How to reach me 
 [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](sookidayo@gmail.com) [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ooo0k) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://izzm2.tistory.com/)
 
+<br>
+
+
 ### 🛠️ Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">   
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScrpipt&logoColor=white">  
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> 
+
+  <img src="https://img.shields.io/badge/Spring%20AI-ffca28?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-ffca28?style=for-the-badge&logo=Google&logoColor=black"> <img src="https://img.shields.io/badge/Qdrant-00B5A1?style=for-the-badge&logo=qdrant&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=AmazonEC2&logoColor=white"> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0ooo0k&layout=compact)
 
 
-
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs0ooo0k&edge_flat=false&title=hits)
+<br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=s0ooo0k&utm_content=farm">
 <img
