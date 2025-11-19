@@ -1,5 +1,5 @@
 ### ⚡ About Me 
-### 문제를 구조화하고 더 나은 사용자 경험을 만드는 백엔드 개발자 지현숙입니다.  
+### "더 나은 방법은 없을까" 고민하는 개발자 지현숙입니다 
 
 🖊️ 사용자에게 의미 있는 기능을 만들기 위해 꾸준히 배우고 도전합니다.  
 🤖 새로운 기술도 직접 부딪히며 익히고, 과정을 기록하며 성장합니다.  
@@ -10,8 +10,8 @@
   
 ### 🏃 Who am I
 🔭 Ewha Womans Uiv. Computer Science Engineering   
-🦁 Ewha LikeLion 8, 9기   
-🖱️ Programmers 생성형 AI Backend 데브코스 1기    
+🦁 Ewha LikeLion 8기, 9기 대표
+🖱️ Programmers 생성형 AI Backend 데브코스 1기 (우수 수료생)
 
 ### 📫 How to reach me 
 [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](sookidayo@gmail.com) [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ooo0k) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://izzm2.tistory.com/)
