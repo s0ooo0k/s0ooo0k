@@ -1,30 +1,38 @@
-### ⚡ About Me 
-### "더 나은 방법은 없을까" 고민하는 개발자 지현숙입니다 
+## About Me
+- "더 나은 방법은 없을까"를 고민하는 개발자 지현숙입니다
+- AI를 활용한 서비스 구현에 관심이 많습니다
 
-🖊️ 사용자에게 의미 있는 기능을 만들기 위해 꾸준히 배우고 도전합니다.  
-🤖 새로운 기술도 직접 부딪히며 익히고, 과정을 기록하며 성장합니다.  
-🫱🏼‍🫲🏻 팀과의 소통을 중요하게 생각하며, 협업 과정 속에서 더 나은 방향을 함께 고민합니다.
+## Education
+- **Ewha Womans University** (2019.03 - 2026.08)       
+  > B.S. in Computer Science Engineering
 
-<br>
-
-  
-### 🏃 Who am I
-🔭 Ewha Womans Uiv. Computer Science Engineering   
-🦁 Ewha LikeLion 8기, 9기 대표
-🖱️ Programmers 생성형 AI Backend 데브코스 1기 (우수 수료생)
-
-### 📫 How to reach me 
-[![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](sookidayo@gmail.com) [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/s0ooo0k) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://izzm2.tistory.com/)
-
-<br>
+- **Incheon Science Highschool** (2016.03 ~ 2019.02)
+  > Science & Engineering
 
 
-### 🛠️ Tools
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> 
+## Activities
+- **AUSG (AWSKRUG University Student Group) 9기** (2025.07 ~ )       
+  > AWS 클라우드 스터디 및 기술 공유 활동
 
-  <img src="https://img.shields.io/badge/Spring%20AI-ffca28?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-ffca28?style=for-the-badge&logo=Google&logoColor=black"> <img src="https://img.shields.io/badge/Qdrant-00B5A1?style=for-the-badge&logo=qdrant&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=AmazonEC2&logoColor=white"> 
+- **프로그래머스 생성형 AI 활용 백엔드 데브코스 1기** (2025.01 ~ 2025.07)       
+  > Java, Spring Boot 기반 백엔드 및 AI 활용 서비스 설계 및 학습      
+  > 우수 수료생, 우수 프로젝트 선정
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0ooo0k&layout=compact)
+- **멋쟁이사자처럼 이화여자대학교 9th 대표, 백엔드 파트장** (2020.04 ~ 2021.08)       
+  > Python, Django 기반 교육 세션 진행 및 개발 행사 진행
+
+## Projects
+- **[AMATEURS](https://www.amateurs.co.kr/)** | AI, Backend (2025.06~2025.10)       
+  > 데브코스 수강생을 위한 통합 커뮤니티 서비스   
+  > LLM 활용 추천 시스템 구현 및 OCR 기반 인증 시스템 구현
+
+- **[TEAMO](https://team0.vercel.app/)** | Backend, Cloud (2025.04 ~ 2025.05)       
+  > 해커톤, 프로젝트 팀원 모집, 매칭 서비스   
+  > 게시판 구현 및 LLM 앙상블 기반 AI 매칭 서비스 구현
+
+## Awards
+- **2025 INNOHACK** | **업스테이지 트랙상** | 시니어 커리어 설계 및 자동화 서비스 (2025.11)
+- **AWS Q Developer Hackathon** | **대상** | 멀티모달 AI 기반 영어 학습 서비스 (2025.09)
 
 
 <br>
