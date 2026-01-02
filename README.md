@@ -3,10 +3,10 @@
 - AI를 활용한 서비스 구현에 관심이 많습니다
 
 ## Education
-- **Ewha Womans University** (2019.03 - 2026.08)       
+- **Ewha Womans University** (2019.03 ~ 2026.08)       
   > B.S. in Computer Science Engineering
 
-- **Incheon Science Highschool** (2016.03 ~ 2019.02)
+- **Incheon Science High School** (2016.03 ~ 2019.02)
   > Science & Engineering
 
 
